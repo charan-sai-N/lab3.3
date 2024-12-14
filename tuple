@@ -1,0 +1,11 @@
+c=(123,346,56,6,345,45734,6,547,34,346,547,334,7,34)
+print(type(c))
+print(max(c))
+print(min(c))
+d=(1,2,3,4,54,3,456,4,56,46,7,578,75,00,757,67,45,33,554,776,1,2,456,6,7,98,5,33,5,78,'kalki')
+print(c+d) # concatination two tuples ni add chestam
+print(c*1) #reputation tuple ni repeat chestadhi
+for i in c:
+    print(c) #ietaration
+print(1 in c) #membership operations_ichina data tuple lo vundha leda ani choostadhi output true or false ani istadhi
+print(6 in c)
